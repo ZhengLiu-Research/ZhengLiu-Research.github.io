@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>RF/mmWave IC research at Kilby Lab, Texas Instruments</a>. Ph.D at Princeton University, B.S at Peking University
 
 profile:
-  align: right
+  align: left
   image: Zheng_bio.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
