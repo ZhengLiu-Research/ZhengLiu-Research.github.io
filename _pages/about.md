@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Research Engineer at Kilby Lab, Texas Instruments, Dallas, Ph.D from Princeton University.
 
 profile:
-  align: right
+  align: left
   image: Zheng_bio.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
