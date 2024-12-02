@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>RF/mmWave IC research at Kilby Lab, Texas Instruments</a>. Ph.D at Princeton University, B.S at Peking University
 
 profile:
   align: right
