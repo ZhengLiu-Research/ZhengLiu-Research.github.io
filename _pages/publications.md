@@ -7,6 +7,11 @@ nav: true
 nav_order: 2
 ---
 
+
+<h2>Journal Papers</h2>
+{% bibliography -f papers -q @*[type=Journal Article] %}
+
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
