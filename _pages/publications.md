@@ -18,14 +18,16 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
+{% raw %}
 <h2>Journal Papers</h2>
-{% bibliography -f papers -q @article %}
+{% bibliography -f papers -q @*[category=journal] %}
 
 <h2>Conference Papers</h2>
-{% bibliography -f papers -q @inproceedings %}
+{% bibliography -f papers -q @*[category=conference] %}
 
 <h2>Patents</h2>
-{% bibliography -f papers -q @patent %}
+{% bibliography -f papers -q @*[category=patent] %}
+{% endraw %}
 
 {% bibliography %}
 
