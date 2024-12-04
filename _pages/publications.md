@@ -21,13 +21,13 @@ nav_order: 2
 
 
 <h2>Journal Papers</h2>
-{% bibliography -f papers -q @article --group_by none %}
+{% bibliography -f papers -q @article %}
 
 <h2>Conference Papers</h2>
-{% bibliography -f papers -q @inproceedings --group_by none %}
+{% bibliography -f papers -q @inproceedings %}
 
 <h2>Patents</h2>
-{% bibliography -f papers -q @patent --group_by none %}
+{% bibliography -f papers -q @patent %}
 
 
 {% bibliography %}
