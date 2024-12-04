@@ -70,6 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
+cv_pdf: Zheng_Liu_CV_1203.pdf
 
 acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
