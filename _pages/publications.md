@@ -8,8 +8,7 @@ nav_order: 2
 ---
 
 
-<h2>Journal Papers</h2>
-{% bibliography -f papers -q @*[type=Journal Article] %}
+
 
 
 <!-- _pages/publications.md -->
@@ -19,7 +18,8 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
-
+<h2>Journal Papers</h2>
+{% bibliography -f papers -q @article %}
 {% bibliography %}
 
 </div>
