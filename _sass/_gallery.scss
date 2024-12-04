@@ -1,0 +1,22 @@
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    padding: 1rem 0;
+  }
+  
+  .gallery-item {
+    text-align: center;
+    
+    img {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+    }
+    
+    .gallery-caption {
+      margin-top: 0.5rem;
+      font-size: 0.9rem;
+      color: var(--global-text-color);
+    }
+  }

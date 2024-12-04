@@ -1,0 +1,8 @@
+<div class="gallery-grid">
+  {% for img in page.gallery %}
+  <div class="gallery-item">
+    <img src="{{ img.image | relative_url }}" alt="{{ img.caption }}">
+    <p class="gallery-caption">{{ img.caption }}</p>
+  </div>
+  {% endfor %}
+</div>
