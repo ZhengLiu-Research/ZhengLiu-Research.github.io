@@ -20,13 +20,13 @@ nav_order: 2
 <div class="publications">
 {% raw %}
 <h2>Journal Papers</h2>
-{% bibliography -f papers -q @*[category=journal] %}
+{% bibliography -f papers -q @article %}
 
 <h2>Conference Papers</h2>
-{% bibliography -f papers -q @*[category=conference] %}
+{% bibliography -f papers -q @inproceedings %}
 
 <h2>Patents</h2>
-{% bibliography -f papers -q @*[category=patent] %}
+{% bibliography -f papers -q @misc[type=patent] %}
 {% endraw %}
 
 {% bibliography %}
