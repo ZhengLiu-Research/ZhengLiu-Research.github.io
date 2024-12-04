@@ -19,7 +19,7 @@ nav_order: 2
 
 <div class="publications">
 
-{% raw %}
+
 <h2>Journal Papers</h2>
 {% bibliography -f papers -q @article --group_by none %}
 
@@ -28,7 +28,7 @@ nav_order: 2
 
 <h2>Patents</h2>
 {% bibliography -f papers -q @patent --group_by none %}
-{% endraw %}
+
 
 {% bibliography %}
 
