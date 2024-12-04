@@ -18,7 +18,7 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
-{% raw %}
+
 <h2>Journal Papers</h2>
 {% bibliography -f papers -q @article %}
 
@@ -27,7 +27,7 @@ nav_order: 2
 
 <h2>Patents</h2>
 {% bibliography -f papers -q @misc[type=patent] %}
-{% endraw %}
+
 
 {% bibliography %}
 
