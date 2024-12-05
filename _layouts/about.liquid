@@ -48,6 +48,15 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+
+     <!-- Awards -->
+    {% if page.awards %}
+      <h2>
+        <a href="{{ '/awards/' | relative_url }}" style="color: inherit">awards</a>
+      </h2>
+      {% include awards.liquid limit=true %}
+    {% endif %}
+
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
