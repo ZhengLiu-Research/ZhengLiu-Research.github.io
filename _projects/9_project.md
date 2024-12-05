@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Synthesizer-free mmWave Receiver
+description: ISSCC 2024
+img: assets/img/ISSCC24.png
+redirect: https://ieeexplore.ieee.org/abstract/document/10454512
+importance: 9
+category: work
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

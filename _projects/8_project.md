@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
+title: InP SCB PA
+description: MWCL 2021
+img: assets/img/SCB.png
+redirect: https://ieeexplore.ieee.org/abstract/document/9381254
+importance: 8
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

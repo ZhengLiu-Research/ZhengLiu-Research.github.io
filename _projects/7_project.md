@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
+title: mmWave Load Modulated Balanced PA
+description: IMS 2020
+img: assets/img/lmba.png
+redirect: https://ieeexplore.ieee.org/abstract/document/9224038
+importance: 7
 category: work
 related_publications: true
 ---
