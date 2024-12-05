@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: AI Inverse Design PA
+description: JSSC 2023, MWCL 2022
+img: assets/img/JSSC23.png
+redirect: https://ieeexplore.ieee.org/abstract/document/9770176
+importance: 4
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

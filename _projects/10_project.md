@@ -1,11 +1,12 @@
 ---
 layout: page
-title: AI Multi-Port RFIC
-description: Nature Communication 2025, IMS 2024
-img: assets/img/nature.png
-redirect: https://ieeexplore.ieee.org/abstract/document/10600352
-importance: 6
+title: Dual-band mmWave PA
+description: MWCL 2022
+img: assets/img/MWCL_dualband.png
+redirect: https://ieeexplore.ieee.org/abstract/document/9754981
+importance: 10
 category: work
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

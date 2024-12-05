@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: 3:1 Bandwidth Beamformer
+description: TMTT 2023, ESSCIRC 2023
+img: assets/img/TMTT24.png
+redirect: https://ieeexplore.ieee.org/abstract/document/10296479
 importance: 3
 category: work
 ---
