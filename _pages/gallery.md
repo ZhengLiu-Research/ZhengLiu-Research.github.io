@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 permalink: /gallery/
 description: My photo gallery
-nav: true
+nav: false
 nav_order: 5
 gallery:
   - image: /assets/img/TMTT.jpg
