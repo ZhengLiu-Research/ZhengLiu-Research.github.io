@@ -1,7 +1,7 @@
 ---
 layout: page
 title: First AI Inverse Design mmWave PA (90nm BiCMOS)
-description: JSSC 2023 (Annually Best Paper Award), MWCL 2022
+description: JSSC 2023 (Best Paper Award of the year), MWCL 2022
 img: assets/img/JSSC23.png
 redirect: https://ieeexplore.ieee.org/abstract/document/9770176
 importance: 1
