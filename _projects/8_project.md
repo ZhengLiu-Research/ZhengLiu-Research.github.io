@@ -1,6 +1,6 @@
 ---
 layout: page
-title: InP SCB PA
+title: Stacked Common base PA (250nm InP)
 description: MWCL 2021
 img: assets/img/SCB.png
 redirect: https://ieeexplore.ieee.org/abstract/document/9381254

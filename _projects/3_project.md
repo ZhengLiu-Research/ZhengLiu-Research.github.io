@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3:1 Bandwidth Beamformer
+title: 3:1 Bandwidth Beamformer (90nm BiCMOS)
 description: TMTT 2023, ESSCIRC 2023
 img: assets/img/TMTT24.png
 redirect: https://ieeexplore.ieee.org/abstract/document/10296479

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 8 channel 30-100GHz array Tx
+title: 8 channel 30-100GHz transmitting array (90nm BiCMOS)
 description: 
 img: assets/img/Array_3.png
 redirect: 

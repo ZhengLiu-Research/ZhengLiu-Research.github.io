@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ultra-wideband T-line PA
+title: Ultra-wideband T-line PA (90nm BiCMOS)
 description: EuMIC 2022
 img: assets/img/EUMIC.png
 redirect: https://ieeexplore.ieee.org/document/9923515

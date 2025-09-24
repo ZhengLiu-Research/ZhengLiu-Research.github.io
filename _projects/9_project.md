@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Synthesizer-free mmWave Receiver
+title: Synthesizer-free mmWave Receiver (65nm CMOS)
 description: ISSCC 2024
 img: assets/img/ISSCC24.png
 redirect: https://ieeexplore.ieee.org/abstract/document/10454512

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mmWave Load Modulated Balanced PA
+title: First mmWave Load Modulated Balanced PA (65nm CMOS)
 description: IMS 2020
 img: assets/img/lmba.png
 redirect: https://ieeexplore.ieee.org/abstract/document/9224038

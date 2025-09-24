@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SiGe Wideband Filter
+title: SiGe Wideband Filter (90nm BiCMOS)
 description: IMS 2024
 img: assets/img/Bicmosfilter.png
 redirect: https://ieeexplore.ieee.org/abstract/document/10600430

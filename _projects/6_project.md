@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Multi-Port RFIC
+title: AI Multi-Port RFIC (90nm BiCMOS)
 description: Nature Communication 2025, IMS 2024
 img: assets/img/nature.png
 redirect: https://ieeexplore.ieee.org/abstract/document/10600352

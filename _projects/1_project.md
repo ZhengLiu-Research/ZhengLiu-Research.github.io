@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Non-Foster mmWave Doherty
+title: Non-Foster mmWave Doherty (90nm BiCMOS)
 description: JSSC 2022,MWCL 2021
 img: assets/img/JSSC22.png
 redirect: https://ieeexplore.ieee.org/abstract/document/9777845
-importance: 1
+importance: 4
 category: work
 related_publications: true
 ---

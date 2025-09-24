@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dual-band mmWave PA
+title: Dual-band mmWave PA (90nm BiCMOS)
 description: MWCL 2022
 img: assets/img/MWCL_dualband.png
 redirect: https://ieeexplore.ieee.org/abstract/document/9754981

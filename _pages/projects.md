@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: Chip gallery
 permalink: /projects/
 description: A growing collection of my wireless chip-scale system projects.
 nav: true

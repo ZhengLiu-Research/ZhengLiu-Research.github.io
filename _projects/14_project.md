@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wideband Phase Shifter
+title: Wideband Phase Shifter (90nm BiCMOS)
 description: IMS 2023
 img: assets/img/Phase_shifter.png
 redirect: https://ieeexplore.ieee.org/abstract/document/10188072
