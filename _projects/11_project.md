@@ -1,9 +1,9 @@
 ---
 layout: page
 title: SiGe Wideband Filter (90nm BiCMOS)
-description: IMS 2024
+description: Journal of Microwave 2025, IMS 2024
 img: assets/img/Bicmosfilter.png
-redirect: https://ieeexplore.ieee.org/abstract/document/10600430
+redirect: https://ieeexplore.ieee.org/abstract/document/10892641
 importance: 11
 category: work
 related_publications: true
