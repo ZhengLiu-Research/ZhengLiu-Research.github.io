@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -70,7 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-cv_pdf: Zheng_Liu_CV_1203.pdf
+cv_pdf: Zheng_Liu_CV_0923_25.pdf
 
 acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
