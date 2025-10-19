@@ -27,6 +27,6 @@ nav_order: 3
 {% bibliography -f papers -q @inproceedings %}
 
 <h2>Patents</h2>
-{% bibliography -f papers -q @patent --template bib_patent %}
+{% bibliography -f papers -q @patent %}
 
 </div>
