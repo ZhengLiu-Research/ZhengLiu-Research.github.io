@@ -29,7 +29,4 @@ nav_order: 3
 <h2>Patents</h2>
 {% bibliography -f papers -q @patent %}
 
-
-{% bibliography %}
-
 </div>
