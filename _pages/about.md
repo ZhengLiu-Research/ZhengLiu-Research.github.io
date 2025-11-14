@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Incoming Assistant Professor at UW-Madison ECE</a>. Ph.D at Princeton University, B.S at Peking University
+subtitle: <a href='#'>RF/mmWave IC researcher at Kilby Lab, Texas Instruments. </a>. Ph.D at Princeton University, B.S at Peking University
 
 profile:
   align: left
@@ -21,4 +21,4 @@ Zheng Liu received his B.S. in Electronics from Peking University, Beijing, Chin
 
 Dr. Liu’s research expertise includes AI-enabled RF integrated circuit design methodology, wideband phased array system architecture and RF to mmWave power amplifiers and transceivers. His contributions to the microwave and solid-state circuits field have been recognized with several prestigious awards, including the **Bede Liu Best Ph.D. Dissertation Award** from Princeton University in 2023, the **IEEE Journal of Solid State Circuits (JSSC) Best Paper Award** 2023, the **IEEE International Microwave Symposium (IMS) 2022 Advanced Practice Paper Award** (First Author), the **IEEE MTT-S Microwave Fellowship** in 2021, and the **Analog Devices Outstanding Student Designer Award** in 2021. Additionally, he has received **three IEEE IMS Best Student Paper Awards**, including two as first author in IMS 2021 and one as co-author in IMS 2020.
 
-Dr. Liu is a member of the MTT-S Technical Committee on Microwave and mmWave Integrated Circuits (TC-14), a Technical Program Committe (TPC) member of IEEE IMS 2025 and IMS 2026,  and actively serves as a reviewer for leading journals such as IEEE JSSC, TMTT, TCAS-I etc.
+Dr. Liu is a member of the MTT-S Technical Committee on Microwave and mmWave Integrated Circuits (TC-14), a Technical Program Committe (TPC) member of IEEE IMS 2025 and IMS 2026, and actively serves as a reviewer for leading journals such as IEEE JSSC, TMTT, TCAS-I etc.
