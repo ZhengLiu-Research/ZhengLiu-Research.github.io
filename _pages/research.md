@@ -10,7 +10,7 @@ nav_order: 2
 <!-- Main Image -->
 <div class="row justify-content-center">
     <div class="col-12">
-        {% include figure.liquid path="assets/img/research_main.png" class="img-fluid rounded z-depth-1 research-main-image" %}
+        {% include figure.liquid path="assets/img/research_overview.png" class="img-fluid rounded z-depth-1 research-main-image" %}
     </div>
 </div>
 
