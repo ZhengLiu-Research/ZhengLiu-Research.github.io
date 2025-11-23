@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Incoming Assistant Professor at UW-Madison ECE, RF/mmWave IC researcher at Kilby Lab, Texas Instruments. </a>. Ph.D at Princeton University, B.S at Peking University
+subtitle: <a href='#'>Incoming Assistant Professor at UW-Madison ECE, RF/mmWave IC researcher at Kilby Lab, Texas Instruments. </a> Ph.D at Princeton University, B.S at Peking University
 
 profile:
   align: left
