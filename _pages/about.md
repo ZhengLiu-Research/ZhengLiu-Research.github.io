@@ -6,7 +6,7 @@ subtitle: <a href='#'> Assistant Professor at UW-Madison ECE, RF/mmWave IC resea
 
 profile:
   align: left
-  image: Zheng_bio.jpg
+  image: zheng_bio_new.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
